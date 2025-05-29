@@ -1,6 +1,4 @@
-# 💼 Sourav's Developer Portfolio
-
-Welcome to my personal developer portfolio! This website showcases my skills, projects, and experiences as a full-stack web developer. Built using modern technologies, it's designed to reflect my passion for creating clean, functional, and user-friendly web applications.
+<h1 align="left">Hey 👋 I am Sayeed</h1>
 
 
 <h3 align="left">🛠 Language and tools</h3>
