@@ -1,4 +1,9 @@
-<h1 align="left">Hey 👋 I am Sourav</h1>
+
+<div align="center">
+  <img  width="50%" src="https://github.com/suhanurrahman007/suhanurrahman007/blob/main/images/Hello World.gif" />
+</div>
+<h1 align="center">Hey 👋 I am Sourav</h1>
+<h3 align="center"> "I'm a full-stack web developer skilled in React, Firebase, MongoDB, and Node.js. I build modern, responsive apps using Tailwind CSS and love turning ideas into clean, functional websites"</h3>
 
 
 <h3 align="left">🛠 Language and tools</h3>
