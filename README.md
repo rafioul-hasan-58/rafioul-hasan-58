@@ -41,7 +41,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafioul-hasan-58&theme=react&border_radius=10)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafioul-hasan-58&theme=react&utcOffset=8&border_radius=10)
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafioul-hasan-58&count_private=true&theme=react&hide_border=true&border_radius=10" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api?username=rafioul-hasan-58&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true" height="180"/>
 </div>
