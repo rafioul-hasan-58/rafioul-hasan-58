@@ -10,6 +10,8 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="15" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -50,6 +52,8 @@
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=rafioul-hasan-58&theme=react&border_radius=10&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+  <img src="https://github-profile-trophy.vercel.app?username=rafioul-hasan-58&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 </div>
 <h2 align="left">Connect with me:</h2>
 
