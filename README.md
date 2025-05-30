@@ -34,14 +34,24 @@
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
-
-<br />
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafioul-hasan-58&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+<p align="left">
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafioul-hasan-58&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
 
 
+## 🚀 Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafioul-hasan-58&layout=compact&theme=dark)
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafioul-hasan-58&theme=react&border_radius=10)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafioul-hasan-58&theme=react&utcOffset=8&border_radius=10)
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafioul-hasan-58&theme=react&border_radius=10" width="100%">
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=rafioul-hasan-58&theme=react&border_radius=10&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
 <h2 align="left">Connect with me:</h2>
 
 
@@ -55,16 +65,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
-## 📁 Features
-
-- 🌟 Responsive and animated landing page
-- 👨‍💻 About me section with skills and tools
-- 🧠 Projects section with filter and search
-- 💬 Testimonials with Framer Motion animations
-- 📰 Blog system (optional)
-- 📬 Contact form (email or webhook)
-- 🌙 Dark mode toggle
-
-## 🧩 Folder Structure
 
 
