@@ -32,20 +32,19 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-## :chart_with_upwards_trend: Current Stats
-<p align="left">
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafioul-hasan-58&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
-</p>
-
-
-## 🚀 Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafioul-hasan-58&layout=compact&theme=dark)
+</br>
+</br>
+</br>
 
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafioul-hasan-58&theme=react&border_radius=10)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafioul-hasan-58&theme=react&utcOffset=8&border_radius=10)
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafioul-hasan-58&count_private=true&theme=react&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafioul-hasan-58&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true" height="180"/>
+</div>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafioul-hasan-58&theme=react&border_radius=10" width="100%">
 
@@ -53,7 +52,6 @@
 
 </div>
 <h2 align="left">Connect with me:</h2>
-
 
 <div align="left">
   <a href="rafioulhasan2@gmail.com" target="_blank">
