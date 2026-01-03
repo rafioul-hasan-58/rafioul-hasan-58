@@ -5,7 +5,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafioul+Hasan+Sourob!;" />
 </h1>
-<h3 align="center"> "I'm a full-stack web developer skilled in React, Firebase, MongoDB, and Node.js. I build modern, responsive apps using Tailwind CSS and love turning ideas into clean, functional websites"</h3>
+<h3 align="center"> "I'm a software developer skilled in React, Firebase, MongoDB, and Node.js. I build modern, responsive apps using Tailwind CSS and love turning ideas into clean, functional websites"</h3>
 </br>
 </br>
 
