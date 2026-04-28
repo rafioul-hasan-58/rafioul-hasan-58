@@ -17,7 +17,7 @@
 
 ### 🔭 I’m a Web Developer.
 
-### 🌱 I’m learning - Next Js.
+### 🌱 I’m learning - Devops.
 
 ### 👯 I’m looking - To collaborate on open source projects.
 
