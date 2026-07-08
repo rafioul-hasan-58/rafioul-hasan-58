@@ -67,29 +67,10 @@
 </br>
 </br>
 </br>
-
-<h2 align="left">Github stats:</h2>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafioul-hasan-58&theme=react&border_radius=10)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafioul-hasan-58&theme=react&utcOffset=8&border_radius=10)
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafioul-hasan-58&count_private=true&theme=react&hide_border=true&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rafioul-hasan-58&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true" height="180"/>
-</div>
-<h2 align="left">Github contribution:</h2>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafioul-hasan-58&theme=react&border_radius=10" width="100%">
-
 <h2 align="left">Contribution graph:</h2>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=rafioul-hasan-58&theme=react&border_radius=10&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-<h2 align="left">Trophies:</h2>
-
-  <img src="https://github-profile-trophy.vercel.app?username=rafioul-hasan-58&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 </div>
 <h2 align="left">Connect with me:</h2>
