@@ -67,11 +67,11 @@
 </br>
 </br>
 </br>
-<h2 align="left">Contribution Streak:</h2>
+📊 GitHub Statistics
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafioul-hasan-58&theme=tokyonight" alt="rafioul-hasan-58" />
-</div>
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafioul-hasan-58&stroke=14b8a6&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" alt="GitHub Streak Stats" />
+</p> -->
 
 <h2 align="left">Contribution graph:</h2>
 
