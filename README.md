@@ -17,7 +17,7 @@
 
 ### 🔭 I’m a Backend Developer.
 
-### 🌱 I’m learning - Nest.js.
+### 🌱 I’m learning - Java.
 
 ### 👯 I’m looking - To collaborate on open source projects.
 
