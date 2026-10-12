@@ -5,25 +5,25 @@
                 %%#+=-==--==----:::---+#
               #+++-+++++=--:-===+++===--+#
              *=-=+:--:----=-:-:.::-=+-:===#
-            #*-:--:::::.::---:......:-==:-*                rafioul@github ---------------------------------
-           %#+::-:::...... .:--::::. ..:...*               Name:        Rafioul Hasan Sourob
-           *==++-:+++====--=+=+*****:.:-=-=                Role:        Full Stack / Backend Developer
-            -:-:::+*********+*####%%* .:-:-                Location:    Dhaka, Bangladesh
-             :::..-##***####*+=--:-=*#--. +                Status:      Open to collaborate on open source
+            #*-:--:::::.::---:......:-==:-*                Me-------------------------------
+           %#+::-:::...... .:--::::. ..:...*               Name:        Rafioul Hasan Sourob.
+           *==++-:+++====--=+=+*****:.:-=-=                Role:        Backend Developer.
+            -:-:::+*********+*####%%* .:-:-                Location:    Gazipur, Dhaka, Bangladesh.
+             :::..-##***####*+=--:-=*#--. +                Status:      Open to collaborate on open source.
               :.. *+--:.:..=-.-...:--*++:-
-               ::=*-:. ..:.=#-:--:-+*#=%+*=                Languages.Programming: TypeScript, JavaScript, Python
-               -++=**+++*+-%%%*=+#%#*+*%*:*                Frontend:    React, Next.js, Redux, Tailwind CSS
-               +-*#****+-+#***+*+..=*###++*                Backend:     Node.js, Express, Nest.js (learning)
-               %-=#**+-:-=. ...:**-.=**#+%                 Databases:   PostgreSQL, MongoDB, MySQL, Prisma
-                ##**++:.-----:-=-::.-***                   Tools:       Git, Docker, Firebase
-                   +**+---+*#%#*+*#****=                   Languages.Real: Bangla, English
+               ::=*-:. ..:.=#-:--:-+*#=%+*=                Languages.Programming: TypeScript, JavaScript, Python.
+               -++=**+++*+-%%%*=+#%#*+*%*:*                Frontend:    React, Next.js, Redux, Tailwind CSS.
+               +-*#****+-+#***+*+..=*###++*                Backend:     Node.js, Express, Nest.js (learning).
+               %-=#**+-:-=. ...:**-.=**#+%                 Databases:   PostgreSQL, MongoDB, MySQL, Prisma.
+                ##**++:.-----:-=-::.-***                   Tools:       Git, Docker, Firebase.
+                   +**+---+*#%#*+*#****=                   Languages.Real: Bangla, English, German.
                     ++++**=:....-+**++:
                      =.:-+***###*+=:.:#                    Hobbies.Software: Building web apps, Open source
                      #+-......:.  .:-+*                    Hobbies.Life:     Binge-watching web series
                      %*+==--:...-+***+*#
                      #++++**++=+********%#                 Contact ----------------------------------------
                   *#%*++++++=====+++****##%#+*#*           Email:       rafioulhasan2@gmail.com
-            ##+*+---##*++++=+==+++++++***##:-=++=+*%%      LinkedIn:    rafioul-hasan-sourav-22798a278
+            ##+*+---##*++++=+==+++++++***##:-=++=+*%%      LinkedIn:    https://www.linkedin.com/in/rafioul-hasan-sourob
       *###*--=+*-:-::*#*+========+=+++*##+:-++=++++=+*+*   GitHub:      rafioul-hasan-58
  #%#***+==-:=++*--==-.:=****+=--=+*###*=::-++=-=+-=:-+=+
 +-=*=-+++=--::-+:====--:.:-=**##*++=-..:--+--===*==:-+==   GitHub Stats -----------------------------------
