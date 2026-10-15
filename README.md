@@ -7,7 +7,7 @@
              *=-=+:--:----=-:-:.::-=+-:===#
             #*-:--:::::.::---:......:-==:-*                Me-------------------------------
            %#+::-:::...... .:--::::. ..:...*               Name:        Rafioul Hasan Sourob.
-           *==++-:+++====--=+=+*****:.:-=-=                Role:        Backend Developer.
+           *==++-:+++====--=+=+*****:.:-=-=                Role:        Full Stack Developer.
             -:-:::+*********+*####%%* .:-:-                Location:    Gazipur, Dhaka, Bangladesh.
              :::..-##***####*+=--:-=*#--. +                Status:      Open to collaborate on open source.
               :.. *+--:.:..=-.-...:--*++:-
